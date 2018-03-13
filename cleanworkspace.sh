@@ -1,3 +1,5 @@
+#this is useful for cleaning Jenkins from CLI
+
 import hudson.model.*;
 import hudson.util.*;
 import jenkins.model.*;
